@@ -5,10 +5,6 @@ title = "Adventure Time!"
 [[menu.main]]
 name = "Posts"
 url = "/posts"
-weight = 2
-[[menu.main]]
-name = "Home"
-url = "/"
 weight = 1
 [params]
 banner = "/uploads/2017/10/28/dollars.png"
