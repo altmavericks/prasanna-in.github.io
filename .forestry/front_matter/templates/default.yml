@@ -1,4 +1,6 @@
 ---
+pages:
+- posts/the-team.md
 hide_body: false
 fields:
 - name: title
