@@ -1,5 +1,6 @@
 ---
 pages:
+- home.md
 - posts/the-team.md
 hide_body: false
 fields:
