@@ -4,7 +4,7 @@ pluralizelisttitles = false
 title = "Adventure Time!"
 [[menu.main]]
 name = "Posts"
-url = "/posts"
+url = "/"
 weight = 1
 [params]
 banner = "/uploads/2017/10/28/dollars.png"
